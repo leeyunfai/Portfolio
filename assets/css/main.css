@@ -93,12 +93,12 @@ input, select, textarea {
   color: #fff;
   text-transform: uppercase;
   font-weight: 90%;
+    font-size: 12pt;
   border-bottom: 2px solid transparent;
   -webkit-transition: border-bottom 0.2s;
   transition: border-bottom 0.2s;
   padding: 8px 0px;
 }
-
 
 /* Basic */
 
