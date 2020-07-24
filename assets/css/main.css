@@ -85,7 +85,6 @@ input, select, textarea {
 #nav li {
   display: inline-block;
   margin-right: 20px;
-    float: right;
 }
 
 #nav li a:link,
